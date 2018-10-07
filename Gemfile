@@ -6,6 +6,9 @@ ruby '2.5.1'
 #Add user authentication with Devise gem
 gem 'devise', '~> 4.4', '>= 4.4.1'
 
+#Bootstrap styling
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
