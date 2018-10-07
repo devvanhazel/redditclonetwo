@@ -9,6 +9,8 @@ gem 'devise', '~> 4.4', '>= 4.4.1'
 #Bootstrap styling
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
+#Voting feature
+gem 'acts_as_votable', '~> 0.11.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
